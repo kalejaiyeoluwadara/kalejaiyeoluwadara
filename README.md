@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalejaiyeoluwadara
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React Js 
-- 💞️ I’m looking to collaborate on computer vision 
+- 💞️ I’m looking to collaborate on Front-end web development
 - 📫 How to reach me WhatsApp
 
 <!---
