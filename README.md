@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kalejaiyeoluwadara
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning React Js 
-- 💞️ I’m looking to collaborate on Front-end web development
-- 📫 How to reach me WhatsApp
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Firebase
+- 💞️ I’m looking to collaborate on Interactive and Responsive Web application
+- 📫 How to reach me WhatsApp, X.
 
 <!---
 kalejaiyeoluwadara/kalejaiyeoluwadara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
