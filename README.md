@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @kalejaiyeoluwadara
+# Heyo world😎😎
+-
+### 👋 Hi, I’m ```@kalejaiyeoluwadara```, also known as Dàra lé Chef, yh I cook for a living 😅
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Firebase
-- 💞️ I’m looking to collaborate on Interactive and Responsive Web application
+- 💻 I’m looking to collaborate on Interactive and Responsive Web application
 - 📫 How to reach me WhatsApp, X.
 
 <!---
