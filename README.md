@@ -51,11 +51,12 @@ Currently cultivating my skills in the magical realms of React + Firebase, also 
 
 - [BetaTalk](#) - Explore a unique social experience on BetaTalk, where every user is truly anonymous. Unlike conventional websites or social networks, BetaTalk ensures 100% anonymity, fostering real-time conversations and messages. Embrace the freedom to connect authentically, without compromising your identity. Discover BetaTalk – where genuine, anonymous communication takes center stage.<a href='https://firebase-nine-flame.vercel.app/' ></a>
 - [MidGallery](#) - More like a TIKTOK clone but images inplace of videos. <a href= "https://mid-gallery-sigma.vercel.app/"></a>
-- <!-- Add more projects with links and descriptions -->
-<!-- Your GitHub Stats -->
-(![kalejaiyeoluwadara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalejaiyeoluwadara&theme=vue-dark&hide_border=true))
-![Dàra lé Chef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalejaiyeoluwadara&show_icons=true&theme=radical)
 
+<!-- Your GitHub Stats -->
+![kalejaiyeoluwadara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalejaiyeoluwadara&theme=vue-dark&hide_border=true)
+
+
+![Dàra lé Chef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalejaiyeoluwadara&show_icons=true&theme=radical)
 
 ## 📈 GitHub Stats
 
