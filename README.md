@@ -53,12 +53,11 @@ Currently cultivating my skills in the magical realms of React + Firebase, also 
 - [MidGallery](#) - More like a TIKTOK clone but images inplace of videos. <a href= "https://mid-gallery-sigma.vercel.app/"></a>
 
 <!-- Your GitHub Stats -->
-![kalejaiyeoluwadara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalejaiyeoluwadara&theme=vue-dark&hide_border=true)
 
 
-![Dàra lé Chef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalejaiyeoluwadara&show_icons=true&theme=radical)
+[![Dara's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalejaiyeoluwadara)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalejaiyeoluwadara&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+![kalejaiyeoluwadara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalejaiyeoluwadara&theme=vue-dark&hide_border=true)
