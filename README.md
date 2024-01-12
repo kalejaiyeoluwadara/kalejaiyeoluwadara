@@ -1,6 +1,6 @@
 # 👩‍💻 Welcome to Dàra lé Chef's Universe! 😎💻
 
-Hey there! I'm [@kalejaiyeoluwadara](https://github.com/kalejaiyeoluwadara), also known as Dàra lé Chef. I bring code to life! 💻✨
+Hey there! I'm [@kalejaiyeoluwadara](https://github.com/kalejaiyeoluwadara), also known as Dàra lé Chef. I bring codes to life! 💻✨
 
 ![Funny GIF](https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
 
