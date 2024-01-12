@@ -58,10 +58,11 @@ Currently cultivating my skills in the magical realms of React + Firebase, also 
 
 <!-- Your GitHub Stats -->
 
+## 📈 GitHub Stats
 
 [![Dara's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalejaiyeoluwadara)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📈 GitHub Stats
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalejaiyeoluwadara&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![kalejaiyeoluwadara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalejaiyeoluwadara&theme=vue-dark&hide_border=true)
