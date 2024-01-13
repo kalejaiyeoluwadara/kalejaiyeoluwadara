@@ -49,8 +49,6 @@ Currently cultivating my skills in the magical realms of React + Firebase, also 
 ---
 
 
----
-
 ## 🛠️ Projects
 
 - [BetaTalk](#) - Explore a unique social experience on BetaTalk, where every user is truly anonymous. Unlike conventional websites or social networks, BetaTalk ensures 100% anonymity, fostering real-time conversations and messages. Embrace the freedom to connect authentically, without compromising your identity. Discover BetaTalk – where genuine, anonymous communication takes center stage.<a href='https://firebase-nine-flame.vercel.app/' >Demo</a>
