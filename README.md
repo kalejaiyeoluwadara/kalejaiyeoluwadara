@@ -1,4 +1,4 @@
-# 👩‍💻 Welcome to Dàra lé Chef's Universe! 😎💻
+I'll# 👩‍💻 Welcome to Dàra lé Chef's Universe! 😎💻
 
 Hey there! I'm [@Dara](https://github.com/kalejaiyeoluwadara), I bring codes to life! 💻✨
 
@@ -52,7 +52,7 @@ Currently cultivating my skills in the magical realms of React + Firebase, also 
 ## 🛠️ Recent Projects
 
 - [BetaTalk](#) - Explore a unique social experience on BetaTalk, where every user is truly anonymous. Unlike conventional websites or social networks, BetaTalk ensures 100% anonymity, fostering real-time conversations and messages. Embrace the freedom to connect authentically, without compromising your identity.Discover BetaTalk – where genuine, anonymous communication takes center stage.<a href='https://firebase-nine-flame.vercel.app/' >Demo</a>
-- [MidGallery](#) - More like a TIKTOK clone but images inplace of videos. I'll probably building something better after understanding how to optimize videos, reduce load time by implementing some algorithm 😅<a href= "https://mid-gallery-sigma.vercel.app/"></a>
+- [MidGallery](#) - More like a TIKTOK clone but images inplace of videos. I'll probably building something better after understanding how to optimize videos, reduce load time by implementing some algorithms 😅<a href= "https://mid-gallery-sigma.vercel.app/"></a>
 
 <!-- Your GitHub Stats -->
 
