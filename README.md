@@ -1,4 +1,4 @@
-I'll# 👩‍💻 Welcome to Dàra lé Chef's Universe! 😎💻
+👩‍💻 Welcome to Dàra lé Chef's Universe! 😎💻
 
 Hey there! I'm [@Dara](https://github.com/kalejaiyeoluwadara), I bring codes to life! 💻✨
 
