@@ -52,7 +52,7 @@ Currently cultivating my skills in the magical realms of React + Firebase, also 
 ## 🛠️ Recent Projects
 
 -[MyHomeEtal Admin Dahboard]
-[Nexgen Website]([https://github.com/kalejaiyeoluwadara](https://nexgen-academy-nu.vercel.app/))
+<p>-[Nexgen Website](https://nexgen-academy-nu.vercel.app/)</p>
 <!-- Your GitHub Stats -->
 
 ## 📈 GitHub Stats
