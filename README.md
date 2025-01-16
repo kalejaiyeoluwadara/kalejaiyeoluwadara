@@ -62,4 +62,4 @@ Currently cultivating my skills in the magical realms of React + Firebase, also 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalejaiyeoluwadara&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![kalejaiyeoluwadara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalejaiyeoluwadara&theme=vue-dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kalejaiyeoluwadara&theme=dark&hide_border=true)](https://git.io/streak-stats)
