@@ -10,7 +10,7 @@ Hey there! I'm [@Dara](https://github.com/kalejaiyeoluwadara), Flutter Enthusias
 I'm not just passionate about writing code—I’m driven by the challenge of creating real-world solutions that make an impact.
 
 ### 🌱 Current Focus
-Currently cultivating my skills in the magical realms Flutter cross platform mobile app development
+Currently cultivating my skills in the magical realms of Flutter cross platform mobile app development
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Popularity+Adds+Credibility..&hearts;++;Self-taught+Fullstack-Web+Developer,;Computer+Science+Student,;Brawlhalla+Gold+Ranked+Player,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -53,7 +53,6 @@ Currently cultivating my skills in the magical realms Flutter cross platform mob
 
 
 ## 🛠️ Recent Projects
-- **XmasFunds Web App**  
 - **MyHomeEtal Admin Dashboard**  
   A feature-rich admin dashboard designed for seamless management of products, and notifications, with tools to track inventory and control sales efficiently.
   
@@ -63,6 +62,7 @@ Currently cultivating my skills in the magical realms Flutter cross platform mob
 
 - **XmasFunds Web App**  
   A fun Christmas-themed platform where users can share personalized links to receive funds from loved ones, using a festive design and conversational Pidgin language.
+
 - **A bunch of Flutter Projects**
 - **A bunch of Node express Projects**  
 
