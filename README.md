@@ -63,9 +63,6 @@ Currently cultivating my skills in the magical realms of Flutter cross platform 
   A groundbreaking AI-powered web platform fluent in Yoruba, enabling users to summarize documents, create quizzes, and make files CV-worthy, all while vibing in Yoruba.  
   *(More details: Full-stack development with Next.js, Tailwind CSS, and Gemini API.)*
 
-- **XmasFunds Web App**  
-  A fun Christmas-themed platform where users can share personalized links to receive funds from loved ones, using a festive design and conversational Pidgin language.
-
 - **A bunch of Flutter Projects**
 - **A bunch of Node express Projects**  
 
