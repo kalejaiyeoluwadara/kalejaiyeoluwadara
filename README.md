@@ -7,10 +7,10 @@ Hey there! I'm [@Dara](https://github.com/kalejaiyeoluwadara)! 💻✨
 
 ### 👀 What I'm About
 
-I'm not just passionate about writing code—I’m driven by the challenge of creating real-world solutions that make an impact.
+I'm not just passionate about writing code I’m driven by the challenge of creating real-world solutions that make an impact.
 
 ### 🌱 Current Focus
-Currently cultivating my skills in the magical realms of Flutter cross platform mobile app development
+Currently cultivating my skills in the magical realms of React Native cross platform mobile app development
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Popularity+Adds+Credibility..&hearts;++;Self-taught+Fullstack-Web+Developer,;Computer+Science+Student,;Brawlhalla+Gold+Ranked+Player,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -53,18 +53,6 @@ Currently cultivating my skills in the magical realms of Flutter cross platform 
 
 
 ---
-
-
-## 🛠️ Recent Projects
-- **MyHomeEtal Admin Dashboard**  
-  A feature-rich admin dashboard designed for seamless management of products, and notifications, with tools to track inventory and control sales efficiently.
-  
-- **YGPT Platform**  
-  A groundbreaking AI-powered web platform fluent in Yoruba, enabling users to summarize documents, create quizzes, and make files CV-worthy, all while vibing in Yoruba.  
-  *(More details: Full-stack development with Next.js, Tailwind CSS, and Gemini API.)*
-
-- **A bunch of Flutter Projects**
-- **A bunch of Node express Projects**  
 
 <!-- Your GitHub Stats -->
 
