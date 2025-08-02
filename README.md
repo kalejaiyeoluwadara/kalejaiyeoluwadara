@@ -1,6 +1,6 @@
 👩‍💻 Welcome to Dàra's Universe! 😎💻
 
-Hey there! I'm [@Dara](https://github.com/kalejaiyeoluwadara), Flutter Enthusiast! 💻✨
+Hey there! I'm [@Dara](https://github.com/kalejaiyeoluwadara)! 💻✨
 
 ![Funny GIF](https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
 
